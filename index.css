@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Serif+Text&display=swap');
+
+* {
+    font-family: 'DM Serif Text', serif;
+}
+
+input[type="button"] {
+    font-family: 'DM Serif Text', serif;
+}
+
+.result {
+    font-weight: bold;
+}
+
+#payment {
+    text-decoration: underline;
+}
+
+
+
